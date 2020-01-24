@@ -156,13 +156,3 @@ use ClicShopping\OM\CLICSHOPPING;
 
     </div>
     <div class="separator"></div>
-
-
-
-
-
-
-
-
-
-

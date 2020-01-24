@@ -34,6 +34,7 @@
   }
 ?>
       </div><!-- end flex -->
+
 <?php //important before block ?>
       <footer class="page-footer" id="footer">
         <div class="hr footerHr"></div>
